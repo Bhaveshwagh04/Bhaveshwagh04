@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Bhavesh Wagh</h1>
 <h3 align="center">I'm a Data Scientist</h3>
 
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/0*tD5kEC2JYcKHH0zO.gif">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+
 
 I have technical experience and interest in:
 
@@ -13,6 +14,7 @@ I have technical experience and interest in:
 - MLOps
 - Generative AI
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaveshwagh04&label=Profile%20views&color=0e75b6&style=flat" alt="bhaveshwagh04" /> </p>
 
 - 📫 How to reach me **bhaveshwaghbw.49@gmail.com**
@@ -22,7 +24,8 @@ I have technical experience and interest in:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/bhaveshwagh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/bhaveshwagh" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/bhaveshwaghbw_49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/bhaveshwaghbw_49" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/bhaveshwaghbw_49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bhaveshwaghbw_49" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/https://www.hackerrank.com/profile/bhaveshwaghbw_49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerrank.com/profile/bhaveshwaghbw_49" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -31,3 +34,4 @@ I have technical experience and interest in:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhaveshwagh04&show_icons=true&locale=en&layout=compact" alt="bhaveshwagh04" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhaveshwagh04&show_icons=true&locale=en" alt="bhaveshwagh04" /></p>
+
