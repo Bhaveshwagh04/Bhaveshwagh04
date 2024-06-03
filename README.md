@@ -3,6 +3,14 @@
 <h1 align="center">Hi 👋, I'm Bhavesh Wagh</h1>
 <h3 align="center">I'm a Data Scientist</h3>
 
+I have technical experience and interest in:
+- Deep Learning
+- Machine Learning
+- Computer vision
+- Natural Language Processing
+- MLOps
+- Generative AI
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaveshwagh04&label=Profile%20views&color=0e75b6&style=flat" alt="bhaveshwagh04" /> </p>
 
 - I have technical experience and interest in: **Deep Learning Machine Learning Computer vision Natural Language Processing MLOps Generative AI**
